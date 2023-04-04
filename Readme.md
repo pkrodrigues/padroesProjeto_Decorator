@@ -17,6 +17,6 @@ Tratas-se de uma alteranativa para craição de subclasses para estender funcion
 #### 2.1.2 Exemplo abordado
 
 Como exemplo para este padrão abordei o tema de quarto de hotel, onde podemos adicionar novos elementos a ele, como Ar condicionado, uma suíte, etc.
-#### 1.1.3 Diagrama de Classe do Exemplo
+#### 2.1.3 Diagrama de Classe do Exemplo
 
 ![img.png](img.png)
